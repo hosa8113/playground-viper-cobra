@@ -1,0 +1,12 @@
+github:
+  token: efgh
+
+logging:
+  level: warning
+
+prod:
+  port: 4777
+
+verbose: true
+
+name: config1

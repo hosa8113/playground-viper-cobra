@@ -1,0 +1,9 @@
+{
+  "verbose": true,
+  "logging": {
+    "level": "info"
+  },
+  "prod": {
+    "port": 4711
+  }
+}

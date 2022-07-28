@@ -1,0 +1,12 @@
+github:
+  token: abcd
+
+logging:
+  level: debug
+
+prod:
+  port: 4721
+
+verbose: false
+
+name: configs
